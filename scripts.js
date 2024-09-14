@@ -1,4 +1,4 @@
-let ultimoTamanoPar = 1;
+let ultimoTamanoPar = 16;
 const tamanoMaximo = 500;
 
 const inputNumeros = document.getElementById('input-numeros');
